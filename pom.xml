@@ -14,6 +14,21 @@
         <module>cloud04-eureka-server7001</module>
         <module>cloud05-eureka-server7002</module>
       <module>cloud06-provider-payment8002</module>
+        <module>cloud07-zookeeper</module>
+      <module>cloud08-providerconsul-payment8006</module>
+        <module>cloud09-consumerconsul-order80</module>
+        <module>cloud10-consumerOpenFeign-order80</module>
+      <module>cloud11-provider-hystrix-payment8001</module>
+        <module>cloud12-consumer-feign-hystrix-order80</module>
+        <module>cloud13-consumer-hystrix-dashboard9001</module>
+      <module>cloud14-gateway-gatewat9527</module>
+      <module>cloud15-nacos-provider-payment9001</module>
+      <module>cloud16-nacos-provider-payment9002</module>
+      <module>cloud17-consumer-nacos-order83</module>
+        <module>cloud18-sentinel-service8401</module>
+        <module>cloud19-nacos-provider-payment9003</module>
+      <module>cloud20-nacos-provider-payment9004</module>
+        <module>cloud21-nacos-consumer-order84</module>
     </modules>
     <packaging>pom</packaging>
 
